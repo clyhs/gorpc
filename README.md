@@ -1,4 +1,4 @@
 # gorpc
 ### examples 
-1、helloworld
+* helloworld
 * protoc --go_out=plugins=grpc:. helloworld.proto 
